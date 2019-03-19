@@ -1,3 +1,9 @@
+# Modification 2019/3/19
+源代码作者是ANDREI BÂRSAN。这位老兄在.gitmodules这个文件里应用了某位外国老哥repository里的eigen。恰好那位外国老哥把库给删了。
+
+然后，更狗血的事情来了。在所有的库和代码调好了以后，我发现原作者把KITTI的数据集给删了。我真的佛了。我真的佛了。好在最后在师兄的帮忙下，终于把程序跑起来了。现在把可以运行的代码上传上来，供以后使用。
+
+
 # DynSLAM: Simultaneous Localization and Mapping in Dynamic Environments
 
 This is a dense SLAM system written in C++. It builds on [InfiniTAM](https://github.com/victorprad/InfiniTAM), adding support
