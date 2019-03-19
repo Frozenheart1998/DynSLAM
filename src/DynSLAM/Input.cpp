@@ -2,6 +2,9 @@
 #include "Input.h"
 #include "PrecomputedDepthProvider.h"
 
+#include <opencv2/imgcodecs/imgcodecs.hpp>
+#include <opencv2/imgproc/imgproc.hpp>
+
 namespace dynslam {
 
 using namespace std;

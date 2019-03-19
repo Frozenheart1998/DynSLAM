@@ -1,6 +1,7 @@
 #ifndef DYNSLAM_PRECOMPUTEDDEPTHPROVIDER_H
 #define DYNSLAM_PRECOMPUTEDDEPTHPROVIDER_H
 
+#include <iostream>
 #include <string>
 
 #include "DepthProvider.h"

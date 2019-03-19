@@ -9,6 +9,8 @@
 #include <gflags/gflags.h>
 #include <opencv/cv.h>
 #include <opencv/highgui.h>
+#include <opencv2/imgcodecs/imgcodecs.hpp>
+#include <opencv2/imgproc/imgproc.hpp>
 #include <pangolin/pangolin.h>
 
 #include "DynSlam.h"

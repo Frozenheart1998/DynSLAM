@@ -11,6 +11,7 @@ install/
 doxygen-html/
 .idea/
 cmake-build-debug/
+cmake-build-release/
 media/
 csv/
 fig/

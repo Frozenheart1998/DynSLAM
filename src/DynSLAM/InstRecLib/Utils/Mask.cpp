@@ -2,6 +2,8 @@
 
 #include "Mask.h"
 
+#include <opencv2/imgproc/imgproc.hpp>
+
 namespace instreclib {
 namespace utils {
 

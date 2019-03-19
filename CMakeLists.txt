@@ -24,6 +24,8 @@ endmacro()
 # set(EIGEN3_ROOT ${PROJECT_SOURCE_DIR}/src/eigen)
 # set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
 
+set(OpenGL_GL_PREFERENCE "GLVND")
+
 find_package(Eigen3 3.3 REQUIRED)
 find_package(GLUT REQUIRED)
 find_package(OpenGL REQUIRED)

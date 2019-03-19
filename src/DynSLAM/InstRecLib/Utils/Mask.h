@@ -38,7 +38,7 @@ class Mask {
 
   int GetWidth() const { return bounding_box_.GetWidth(); }
 
-  int GetHeight() const { return bounding_box_.GetHeight(); }
+    int GetHeight() const { return bounding_box_.GetHeight(); }
 
   const BoundingBox& GetBoundingBox() const { return bounding_box_; }
 
